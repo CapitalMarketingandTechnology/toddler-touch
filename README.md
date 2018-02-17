@@ -1,4 +1,4 @@
-# toddlertouch
+# CMT Vue Boilerplate
 
 > A Vue.js project
 
