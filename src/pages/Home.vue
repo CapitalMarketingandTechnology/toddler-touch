@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
-    <h1>{{ homeTitle }}</h1>
+    <h1>
+      <icon name="home" scale="4"></icon>
+      {{ homeTitle }}
+    </h1>
     <h2>Essential Links</h2>
     <ul>
       <li>
