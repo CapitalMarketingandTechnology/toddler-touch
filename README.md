@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+See in final product here:
+http://cmt-vue-boilerplate.s3-website-us-east-1.amazonaws.com
+
 ## Build Setup
 
 ``` bash
