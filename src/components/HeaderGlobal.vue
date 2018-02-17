@@ -3,13 +3,12 @@
 
   <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
 
-  <b-navbar-brand href="#">NavBar</b-navbar-brand>
+  <b-navbar-brand to="/">NavBar</b-navbar-brand>
 
   <b-collapse is-nav id="nav_collapse">
 
     <b-navbar-nav>
-      <b-nav-item to="login">Login</b-nav-item>
-      <b-nav-item to="register">Register</b-nav-item>
+      <b-nav-item to="page">Sample Page</b-nav-item>
     </b-navbar-nav>
 
     <!-- Right aligned nav items -->
@@ -35,6 +34,9 @@
         <b-dropdown-item href="#">Profile</b-dropdown-item>
         <b-dropdown-item href="#">Signout</b-dropdown-item>
       </b-nav-item-dropdown>
+
+      <b-nav-item to="login">Login</b-nav-item>
+      <b-nav-item to="register">Register</b-nav-item>
     </b-navbar-nav>
 
   </b-collapse>

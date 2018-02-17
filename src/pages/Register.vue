@@ -1,6 +1,11 @@
 <template>
   <div>
-    <form-register></form-register>
+    <h1>Register</h1>
+    <div class="row">
+      <div class="col-sm-6">
+        <form-register></form-register>
+      </div>
+    </div>
   </div>
 </template>
 
