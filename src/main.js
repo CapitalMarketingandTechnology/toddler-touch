@@ -7,8 +7,10 @@ import store from './store'
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
+import VueLocalStorage from 'vue-localstorage'
 
 Vue.use(BootstrapVue)
+Vue.use(VueLocalStorage)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
