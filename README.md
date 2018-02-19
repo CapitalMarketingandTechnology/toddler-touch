@@ -1,9 +1,12 @@
-# CMT Vue Boilerplate
+# Toddler Touch
 
-> A Vue.js project
+> A project for toddlers to easily learn letters, shapes, numbers, and more.
 
 See in final product here:
-http://cmt-vue-boilerplate.s3-website-us-east-1.amazonaws.com
+https://github.com/CapitalMarketingandTechnology/toddler-touch.git
+
+Based on cmt-vue-boilerplate
+https://github.com/CapitalMarketingandTechnology/cmt-vue-boilerplate
 
 ## Build Setup
 
